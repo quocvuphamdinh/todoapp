@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/drawable/custom_button_add_todolist.xml" value="0.14114583333333333" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/drawable/custom_edittext_add_todolist.xml" value="0.14114583333333333" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/drawable/custom_textview_todolist.xml" value="0.14114583333333333" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/layout/activity_to_do_list.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/layout/custom_button_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/layout/custom_diaglog_signout.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/layout/custom_dialog_edit.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/layout/custom_dialog_history.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/layout/custome_button_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/layout/to_do_list_row.xml" value="0.33" />
+        <entry key="..\:/AndroidCode/ToDoListVu/app/src/main/res/menu/option_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

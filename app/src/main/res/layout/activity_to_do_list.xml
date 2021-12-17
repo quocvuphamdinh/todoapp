@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ToDoListActivity">
+
+    <TextView
+        android:id="@+id/textviewWelcomeToDoList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_textview_todolist"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Welcome, Quốc Vũ \n Here is your to do list"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edittextAddToDoList"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/textviewWelcomeToDoList"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="110dp"
+        android:background="@drawable/custom_edittext_add_todolist"
+        android:hint="Add a todo..."
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="#99000000" />
+
+    <Button
+        android:id="@+id/buttonAddToDoList"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="99dp"
+        android:layout_marginRight="56dp"
+        android:background="@drawable/custom_button_add_todolist"
+        android:text="+"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+    <ListView
+        android:id="@+id/listviewToDoList"
+        android:layout_margin="10dp"
+        android:layout_below="@id/edittextAddToDoList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>
